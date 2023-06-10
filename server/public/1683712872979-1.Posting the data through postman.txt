@@ -1,2 +1,0 @@
-1.Posting the data through postman using nodejs to mongodb.
-2.retreiving the data from mongodb using nodejs
