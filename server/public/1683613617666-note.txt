@@ -1,0 +1,5 @@
+web scraping
+pip install scrapy
+>pip install BeautifulSoup
+scrapy crawl expertz
+scrapy crawl expertz -o new.json
